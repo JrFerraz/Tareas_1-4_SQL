@@ -1,4 +1,4 @@
 # Entrega de tarefas 1 a 4
 
-- [Tarefa 1-2](./tareas_1-2.md)
-- [Tarefa 3-4](./tareas_3-4.md)
+- [Tareas 1-2](./Tareas_1-2.md)
+- [Tareas 3-4](./Tareas_3-4.md)
